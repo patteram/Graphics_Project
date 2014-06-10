@@ -11,6 +11,8 @@
 # Eclipse Items 
 metadata/
 .metadata
+.project
+.classpath
 
 # Generated files
 bin/
