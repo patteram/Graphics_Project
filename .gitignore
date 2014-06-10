@@ -10,6 +10,7 @@
 
 # Eclipse Items 
 metadata/
+.metadata
 
 # Generated files
 bin/
