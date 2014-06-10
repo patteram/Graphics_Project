@@ -8,6 +8,9 @@
 # Java class files
 *.class
 
+# Eclipse Items 
+metadata/
+
 # Generated files
 bin/
 gen/
